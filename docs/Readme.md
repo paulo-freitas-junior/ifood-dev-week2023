@@ -1,5 +1,5 @@
 # Documentação do Projeto: iFood Dev Week - Análise de NPS e Análise de Sentimentos
-![NPS](/images/NPS.jpeg)
+
 **1. Título do Projeto:** iFood Dev Week - Análise de NPS e Análise de Sentimentos
 
 **2. Visão Geral do Projeto:**
